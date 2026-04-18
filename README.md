@@ -106,3 +106,8 @@ The agent recognizes (see [AGENTS.md §7](AGENTS.md) for full details):
 
 - [AGENTS.md](AGENTS.md) — the operating manual the agent follows
 - [ROADMAP.md](ROADMAP.md) — deferred design questions and operational notes (storage, recovery, sync, etc.)
+
+## Acknowledgments
+
+- **[Andrej Karpathy](https://karpathy.ai)** - the LLM-maintained wiki pattern this repo applies came from his thinking on using LLMs as bookkeepers for compounding personal knowledge bases [llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+- **[@akhaliq](https://huggingface.co/akhaliq) and the Hugging Face team** — for curating and maintaining [Daily Papers](https://huggingface.co/papers), which is the source of every clipping this wiki ingests.
